@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define your git repository URL
-REPO_URL="https://github.com/username/dotfiles.git"
+REPO_URL="https://github.com/batterylake/dotfiles.git"
 
 # Define the destination directory
 DEST_DIR="$HOME/dotfiles"
